@@ -5,7 +5,11 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <title>To do list</title>
+
+    <!-------- CSS -------->
     <link rel="stylesheet" href="style.css" />
+
+    <!-------- ICONS -------->
     <link
       rel="stylesheet"
       href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.1.2/css/all.min.css"
@@ -16,6 +20,15 @@
   </head>
 
   <body>
+    <!-------- LOADER -------->
+    <div class="preloader-wrapper hide-preloader">
+      <div class="preloader">
+        <div class="preloader1"></div>
+      </div>
+      <h1>Welcome</h1>
+    </div>
+
+    <!-------- TO DO LIST -------->
     <form class="form">
       <input
         type="text"
@@ -26,6 +39,8 @@
       <ul class="list"></ul>
     </form>
 
+    <!-------- JS -------->
+    <script src="preloader.js"></script>
     <script src="script.js"></script>
   </body>
 </html>
