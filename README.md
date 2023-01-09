@@ -6,6 +6,10 @@ Plan your day with this *To Do List*.
 
 *To Do List* is a personal project developed with HTML, CSS and Vanilla JavaScript in Visual Studio Code.
 
+**Feel free to add a task, check it or delete it.**
+
+*The website have a responsive design and I implement a localStorage for your data to be sure that you will have your tasks on the list even you closed the browser.*
+
 Here is how you can use it:
 - when you access the site, the list is empty
 
