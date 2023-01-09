@@ -4,6 +4,8 @@
 
 Plan your day with this *To Do List*.
 
+*To Do List* is a personal project developed with HTML, CSS and Vanilla JavaScript in Visual Studio Code.
+
 Here is how you can use it:
 - when you access the site, the list is empty
 
